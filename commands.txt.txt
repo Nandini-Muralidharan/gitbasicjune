@@ -1,1 +1,3 @@
  python is an interpreted,object-oriented programming language.case sensitive
+
+it is a general purpose language
